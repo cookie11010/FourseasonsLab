@@ -1,0 +1,95 @@
+html {
+  background-color: #f1e7e7;
+}
+.box {
+  margin: auto;
+  padding: 0;
+  margin-top: 7vh;
+  background-color: #f8f3f2;
+  width: 1000px;
+  height: 500px;
+  border-radius: 30px;
+  border-style: solid;
+}
+.topname {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.titele {
+  font-family: "Noto Serif Display", serif;
+  font-size: 30px;
+  margin: 0;
+}
+.paragraf {
+  margin: 0;
+  font-family: "Inter", serif;
+}
+p {
+  font-family: "Inter", serif;
+}
+hr {
+  border: 1px solid black;
+  width: 100%;
+}
+
+.hi {
+  font-family: "Noto Serif Display", serif;
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 15px;
+  margin-left: 40px;
+}
+.season {
+  font-family: "Noto Serif Display", serif;
+  font-size: 90px;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-left: 40px;
+}
+.highlight {
+  color: #f18498;
+}
+.button {
+  font-family: "Inter", serif;
+  text-align: center;
+  font-weight: bolder;
+  font-size: medium;
+  border-radius: 15px;
+  margin: 30px;
+  padding: 10px;
+  width: 500px;
+  background-color: #f3d8d8;
+  border: 2px solid black;
+  margin: 4px 2 px;
+  transition: 0.5s;
+}
+.button:hover {
+  background-color: #ffa8b8;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.img1 {
+  height: 175px;
+  width: 175px;
+  margin-left: 750px;
+  border-radius: 15px;
+  position: absolute;
+  top: 220px;
+}
+.img2 {
+  height: 175px;
+  width: 175px;
+  margin-left: 750px;
+  border-radius: 15px;
+  position: absolute;
+  top: 425px;
+}
+
+footer {
+  font-family: "Noto Serif Display", serif;
+  clear: both;
+  color: indianred;
+  text-align: center;
+}
