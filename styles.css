@@ -73,25 +73,20 @@ a {
 .img1 {
   height: 175px;
   width: 175px;
-  margin-left: 750px;
+  position: relative;
+  float: right;
   border-radius: 15px;
-  position: absolute;
-  top: 220px;
+  top: 30px;
+  right: 75px;
 }
 .img2 {
   height: 175px;
   width: 175px;
-  margin-left: 750px;
+  position: relative;
+  float: right;
   border-radius: 15px;
-  position: absolute;
-  top: 425px;
-}
-
-footer {
-  font-family: "Noto Serif Display", serif;
-  clear: both;
-  color: indianred;
-  text-align: center;
+  top: 220px;
+  left: 100px;
 }
 .scrolldown1 {
   width: 100%;
@@ -110,4 +105,44 @@ footer {
   font-size: 65px;
   color: #f18498;
   text-align: center;
+}
+.explore {
+  font-family: "Noto Serif Display", serif;
+  font-size: 57px;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-left: 40px;
+}
+.highlight2 {
+  color: #f18498;
+  font-size: 100px;
+  margin: auto;
+  padding-left: 40px;
+}
+.explore2 {
+  font-family: "Noto Serif Display", serif;
+  font-size: 57px;
+  margin: 0 auto;
+  padding-left: 40px;
+}
+.img3 {
+  height: 300px;
+  width: 350px;
+  /* margin-left: 590px;
+  border-radius: 15px;
+  position: absolute;*/
+  top: 30px;
+  right: 30px;
+  position: relative;
+  float: right;
+  border-radius: 15px;
+}
+
+footer {
+  font-family: "Noto Serif Display", serif;
+  clear: both;
+  color: indianred;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
 }
